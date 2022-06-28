@@ -7,7 +7,7 @@
 #### Features
 
 - All Arithmetic Action (`addition`,`subtraction`,`multiplication`,`division`,`mod`)
-- `Clear`(to delete whole screen),`Del`(to delete one by one) Button
+- `Clear`(to delete whole screen),`Equal` Button
 - Cool White Design
 
 
