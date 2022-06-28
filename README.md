@@ -2,7 +2,7 @@
 
 ##### 🌎 A simple pocket calulator using `HTML`(🛠️), `CSS`(🎨) & `Javascript`(🧠) 
 
-### `Click The Link to Check My Webstite` 👉 : [https://Abeera34.github.io/CALCULATOR/]
+### `Click The Link to Check My Webstite` 👉 : [https://abeera34.github.io/Web-Development-Projects/]
 
 #### Features
 
@@ -15,11 +15,3 @@
 
 ###                 Happy Coding  💟
 
-## Contributors :-
-
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=Abeera34/CALCULATOR"/>
-</a>
